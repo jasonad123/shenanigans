@@ -37,8 +37,6 @@ revenue_colors <- c(
   "State (discretionary)" = "#939598"
 )
 
-#font_import()
-# loadfonts(device = "all")  # Adjust based on your OS: "win", "mac", or "unix"
 
 # Define explanatory text for below the chart
 explanation_text <- "Local/regional (reserved) sources can include fare revenue, gas tax revenue, transit-specific programs like Commuter Choice, and revenue from Transportation Improvement Districts.
